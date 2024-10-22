@@ -7,7 +7,7 @@
     'summary': '',
     'description': '',
     'live_test_url': '',
-    'sequence': '1',
+    'sequence': 1,
     'website': '',
     'author': 'Tanisha',
     'maintainer': 'RPBG',
